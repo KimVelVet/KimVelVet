@@ -11,7 +11,7 @@
 
 🐵 My 🐵<br>
 <div style: "margin: 20px;">
-  <img src="https://img.shields.io/badge/blog-20C997?style=flat&logo=Velog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/blog-20C997?style=flat&logo=Velog&logoColor=white&link=https://vel-vet.tistory.com/"/>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
 </div>

@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat&logo=ReactiveX&logoColor=white"/>
 
 🐵 My 🐵<br>
-<div style: "margin: 10px;">
+<div style: "margin: 20px;">
   <img src="https://img.shields.io/badge/blog-20C997?style=flat&logo=Velog&logoColor=white"/>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>

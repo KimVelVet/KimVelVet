@@ -1,11 +1,13 @@
 
 
-🙌 Introduce<br>
+🙌 Introduce<br><br>
 안녕하세요 iOS개발자로 일하고 있으며,<br>현재 RxSwift에 관심이 생겨 공부중입니다.
 
-⚒️ Skill<br>
+⚒️ Skill<br><br>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 
+📚 Studying<br><br>
+<img src="https://img.shields.io/badge/ReactiveX-#B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
 
 <!--
 **KimVelVet/KimVelVet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

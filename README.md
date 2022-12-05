@@ -1,12 +1,12 @@
 
 
-🙌 Introduce<br><br>
+🙌 Introduce<br>
 안녕하세요 iOS개발자로 일하고 있으며,<br>현재 RxSwift에 관심이 생겨 공부중입니다.
 
-⚒️ Skill<br><br>
+⚒️ Skill<br>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 
-📚 Studying<br><br>
+📚 Studying<br>
 <img src="https://img.shields.io/badge/ReactiveX-#B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
 
 <!--

@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
 
 📚 Studying<br>
-<img src="https://img.shields.io/badge/JavaScript-##F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 
 <!--
 **KimVelVet/KimVelVet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

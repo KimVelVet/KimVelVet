@@ -14,10 +14,13 @@
 <h3 align="center"> 🐵 My 🐵 </h3>
 <p align="center">
   <a href="https://vel-vet.tistory.com/"><img src="https://img.shields.io/badge/blog-20C997?style=flat&logo=Velog&logoColor=white&link=https://vel-vet.tistory.com/"/></a>&nbsp
-  <a href="https://www.instagram.com/velvet._.pic/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/velvet._.pic/"/></a>&nbsp
   <a href="mailto:kmui0923@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=kmui0923@gmail.com"/></a>&nbsp
 </p>
+
 <!--
+
+<a href="https://www.instagram.com/velvet._.pic/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/velvet._.pic/"/></a>&nbsp
+
 **KimVelVet/KimVelVet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

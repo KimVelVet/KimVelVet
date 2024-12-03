@@ -1,5 +1,5 @@
 <h3 align="center"> 🙌 Introduce 🙌 </h3>
-<p align="center"> 안녕하세요 iOS개발자로 일하고 있으며,<br>현재 RxSwift에 관심이 생겨 공부중입니다. </p>
+<p align="center"> 안녕하세요 iOS개발자로 ,<br>현재 RxSwift에 관심이 생겨 공부중입니다. </p>
 
 <h3 align="center">⚒️ Skill ⚒️</h3>
 <p align="center">
